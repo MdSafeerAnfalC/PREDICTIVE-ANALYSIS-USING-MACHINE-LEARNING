@@ -55,4 +55,6 @@ This program is a very good demonstration of machine learning fundamentals. It s
 
 *OUTPUT*
 
+<img width="1366" height="685" alt="Image" src="https://github.com/user-attachments/assets/8adbfcca-9f00-44a4-b9fc-0a50c19445cb" />
 
+<img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/6a658276-718c-464d-87e3-8b20b5b5d0f1" />
